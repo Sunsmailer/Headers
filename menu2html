@@ -1,0 +1,10 @@
+<header>
+    <img src="https://static.tildacdn.com/tild3034-3131-4731-b965-396239616231/-/resize/504x/panda-logo.png" alt="Логотип" width="120" height="120"> <!-- Логотип сайта -->
+    <nav> <!-- Меню -->
+        <ul>
+            <li><a href="https://github.com/Sunsmailer">Главная</a></li>
+            <li><a href="https://github.com/Sunsmailer">О нас</a></li>
+            <li><a href="https://github.com/Sunsmailer">Контакты</a></li>
+        </ul>
+    </nav>
+</header>
